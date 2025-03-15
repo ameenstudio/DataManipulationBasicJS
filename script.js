@@ -16,12 +16,12 @@ console.log("Complete each challenge to reclaim it...\n");
 // 3. Try changing both values — what happens?
 
 // ✍️ Your code here:
-let magicWord = "____"; // string
-const secretNumber = ____; // number
+let magicWord = "ameen"; // string
+const secretNumber = 55; // number
 
 // Log their types
-console.log("Type of magicWord:", typeof magicWord);
-console.log("Type of secretNumber:", typeof secretNumber);
+console.log("ameen:", typeof magicWord);
+console.log("55:", typeof secretNumber);
 
 // Try changing the values here and observe what happens
 
